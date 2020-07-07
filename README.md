@@ -1,4 +1,4 @@
-**Intructions**
+**Instructions**
 
 The file *ReadVideoData.m* contains the MATLAB code to read the algorithm to read the skeletons from videos and automatically detect the hip, knee, ankle, heel and metatarsal points of the skeletons while cycling.
 
@@ -14,7 +14,9 @@ We tested the files in Windows 10, Matlab versions R2016a and R2019b (x64). We c
 **Use of code** 
 
 The variable *pose* within the call:
-[a b c pose(:,:,1) pose(:,:,2) pose(:,:,3)]=Process_Image_MEX(double(data));
+
+`[a b c pose(:,:,1) pose(:,:,2) pose(:,:,3)]=Process_Image_MEX(double(data));`
+
 contains the positions of all 25 keypoints of the skeleton.
 
 The variable pose has 3 dimensions: *nsubj* x *nkeypoints* x 3
@@ -63,4 +65,4 @@ After each frame, you could obtain results similar to the following figure:
 ![cycling test](https://github.com/gilserrancoli/capture_2Dcycling/blob/master/FigureX.png?raw=true)
 
 With the kinematics (angles of the lower-limbs), pedal and saddle contact forces, we could obtain joint kinematics, dynamics and powers, as mentioned in our paper:
-![Video abstract](https://github.com/gilserrancoli/capture_2Dcycling/blob/master/Video_abstract.mp4?raw=true)
+![Video abstract](https://www.youtube.com/watch?v=k5wVOxGTS7w)
