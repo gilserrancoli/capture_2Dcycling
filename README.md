@@ -65,4 +65,9 @@ After each frame, you could obtain results similar to the following figure:
 ![cycling test](https://github.com/gilserrancoli/capture_2Dcycling/blob/master/doc/FigureX.png?raw=true)
 
 With the kinematics (angles of the lower-limbs), pedal and saddle contact forces, we could obtain joint kinematics, dynamics and powers, as mentioned in our paper:
+
 ![Video abstract](https://github.com/gilserrancoli/capture_2Dcycling/blob/master/doc/Video_abstract_gif.gif)
+
+Please, cite our paper as:
+Serrancolí, G; Bogatikov, P; Palés Huix, J; Forcada Barberà, A; Sánchez Egea, A.J.; Torner, J; Kanaan-Izquierdo, S.; Susín, A. Marker-less monitoring protocol to analyze biomechanical joint metrics during pedaling. IEEE Access.
+https://ieeexplore.ieee.org/document/9131774
