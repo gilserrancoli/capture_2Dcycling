@@ -65,4 +65,4 @@ After each frame, you could obtain results similar to the following figure:
 ![cycling test](https://github.com/gilserrancoli/capture_2Dcycling/blob/master/doc/FigureX.png?raw=true)
 
 With the kinematics (angles of the lower-limbs), pedal and saddle contact forces, we could obtain joint kinematics, dynamics and powers, as mentioned in our paper:
-![Video abstract](https://github.com/gilserrancoli/capture_2Dcycling/blob/master/doc/Video_abstract.gif)
+![Video abstract](https://github.com/gilserrancoli/capture_2Dcycling/blob/master/doc/Video_abstract_gif.gif)
