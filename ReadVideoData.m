@@ -17,7 +17,7 @@ Options.Display=1;
 current_folder=pwd;
 Camera=2; %camera (1 or 2) to process
 video_folder=['videos/cam ' num2str(Camera)]; %folder where the video is
-name_file='HV-HR.mov';
+name_file='HV-HR.mov'; %change the name according to your file
 OP_folder='MEX_file';
 main_folder=pwd;
 
