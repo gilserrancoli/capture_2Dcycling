@@ -61,3 +61,6 @@ The outputs of the *ReadVideoData.m* are the point trajectories for the hip, kne
 
 After each frame, you could obtain results similar to the following figure:
 ![cycling test](https://github.com/gilserrancoli/capture_2Dcycling/blob/master/FigureX.png?raw=true)
+
+With the kinematics (angles of the lower-limbs), pedal and saddle contact forces, we could obtain joint kinematics, dynamics and powers, as mentioned in our paper:
+![Video abstract](https://github.com/gilserrancoli/capture_2Dcycling/blob/master/Video_abstract.mp4?raw=true)
