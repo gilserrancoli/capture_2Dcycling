@@ -1,6 +1,6 @@
 **Instructions**
 
-The file *ReadVideoData.m* contains the MATLAB code to read the algorithm to read the skeletons from videos and automatically detect the hip, knee, ankle, heel and metatarsal points of the skeletons while cycling.
+The file *ReadVideoData.m* contains the MATLAB code with the algorithm to read the skeletons from videos and automatically detect the hip, knee, ankle, heel and metatarsal points of the skeletons while cycling.
 
 In order to run it properly, first, you need to follow these steps:
 
