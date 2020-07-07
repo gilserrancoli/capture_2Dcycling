@@ -23,3 +23,30 @@ pose(:,:,1) and pose(:,:,2) contain the x and y positions of the points in the p
 You can check the performance of the MEX file running *TestCompilationMex_FromImage.m*. The results should be something like this:
 
 ![alt text](https://github.com/gilserrancoli/capture_2Dcycling/blob/master/MEX_file/upc_running_result.jpg?raw=true)
+
+The order of the 25 keypoints is the following:
+1. Nose
+2. Neck
+3. Right shoulder
+4. Right elbow
+5. Right wrist
+6. Left shoulder
+7. Left elbow
+8. Left wrist
+9. Mid abdomen
+10. Right hip
+11. Right knee
+12. Right ankle
+13. Left hip
+14. Left knee
+15. Left ankle
+16. Right eye
+17. Left eye
+18. Right ear
+19. Left ear
+20. Left 1st metatarsal
+21. Left 5th metatarsal
+22. Left heel
+23. Right 1st metatarsal
+24. Right 5th metatarsal
+25. Right heel
