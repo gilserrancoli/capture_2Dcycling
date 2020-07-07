@@ -71,4 +71,5 @@ With the kinematics (angles of the lower-limbs), pedal and saddle contact forces
 Please, cite our paper as follows:
 
 Serrancolí, G; Bogatikov, P; Palés Huix, J; Forcada Barberà, A; Sánchez Egea, A.J.; Torner, J; Kanaan-Izquierdo, S.; Susín, A. Marker-less monitoring protocol to analyze biomechanical joint metrics during pedaling. IEEE Access.
+
 https://ieeexplore.ieee.org/document/9131774
