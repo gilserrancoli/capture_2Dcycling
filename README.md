@@ -62,7 +62,7 @@ The outputs of the *ReadVideoData.m* are the point trajectories for the hip, kne
 3. Wait until all frames are processed and the points are extracted. The main output variable is *markers_in_columns*, which is a matrix of ten columns containing (*x_hip*, *y_hip*, *x_knee*, *y_knee*, *x_ankle*, *y_ankle*, *x_metatarsal*, *y_metatarsal*, *x_heel*, *y_heel*).
 
 After each frame, you could obtain results similar to the following figure:
-![cycling test](https://github.com/gilserrancoli/capture_2Dcycling/blob/master/FigureX.png?raw=true)
+![cycling test](https://github.com/gilserrancoli/capture_2Dcycling/blob/master/doc/FigureX.png?raw=true)
 
 With the kinematics (angles of the lower-limbs), pedal and saddle contact forces, we could obtain joint kinematics, dynamics and powers, as mentioned in our paper:
-![Video abstract](https://www.youtube.com/watch?v=k5wVOxGTS7w)
+![Video abstract](https://github.com/gilserrancoli/capture_2Dcycling/blob/master/doc/Video_abstract.gif)
