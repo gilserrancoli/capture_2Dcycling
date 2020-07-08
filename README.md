@@ -6,10 +6,10 @@ In order to run it properly, first, you need to follow these steps:
 
 1. Include the folder *MEX_file* in your MATLAB path.
 2. Include all the files of this shared folder https://www.dropbox.com/sh/dxturx00xsxsjr5/AADcssOkZW7T0WwT2esof5d2a?dl=0 to the *MEX_file* folder.
-3. You should place one webcam video from one side of the subject at videos/cam 1, and from the other side at videos/cam 2.
+3. Place one webcam video from one side of the subject at videos/cam 1, and from the other side at videos/cam 2.
 4. Change the name of your file in line 20 of *ReadVideoData.m* file.
 
-We tested the files in Windows 10, Matlab versions R2016a and R2019b (x64). We cannot ensure that it works in other versions of MATLAB. The MEX file will not work in other OS. If you have another OS or MATLAB version, or you want to simply modify the MEX file, we included the file Process_Image_MEX.cpp to compiled after compiling the OpenPose in your system, as explained in the OpenPose repository https://github.com/CMU-Perceptual-Computing-Lab/openpose.
+We tested the files in Windows 10, Matlab versions R2016a and R2019b (x64). We cannot guarantee that it works in other versions of MATLAB. The MEX file will not work in other OS. If you have another OS or MATLAB version, or you want to simply modify the MEX file, we included the file Process_Image_MEX.cpp to be compiled after compiling the OpenPose in your system, as explained in the OpenPose repository https://github.com/CMU-Perceptual-Computing-Lab/openpose.
 
 **Use of code** 
 
