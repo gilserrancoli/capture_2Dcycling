@@ -24,7 +24,7 @@ The variable pose has 3 dimensions: *nsubj* x *nkeypoints* x 3
 
 You can check the performance of the MEX file running *TestCompilationMex_FromImage.m*. The results should be something like this:
 
-![UPC running](https://github.com/gilserrancoli/capture_2Dcycling/blob/master/MEX_file/upc_running_result.jpg?raw=true)
+![UPC_running](https://github.com/gilserrancoli/capture_2Dcycling/blob/master/MEX_file/upc_running_result.jpg?raw=true)
 
 *nkeypoints* = 25 and the order of those points is the following:
 1. Nose
