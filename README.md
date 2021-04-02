@@ -73,3 +73,7 @@ Please, cite our paper as follows:
 Serrancolí, G; Bogatikov, P; Palés Huix, J; Forcada Barberà, A; Sánchez Egea, A.J.; Torner, J; Kanaan-Izquierdo, S.; Susín, A. Marker-less monitoring protocol to analyze biomechanical joint metrics during pedaling. IEEE Access.
 
 https://ieeexplore.ieee.org/document/9131774
+
+**Code to use only the correction algorithm (with six points)**
+
+The file *ReadVideoData_6points.m* only process the video (without expecting force sensor data and synchronization). In that case, the output contains 6 points (shoulder, hip, knee, ankle, metatarsal and heel).
